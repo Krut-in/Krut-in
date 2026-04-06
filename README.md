@@ -4,6 +4,7 @@ system: Krutin Rathod
 role: AI Full Stack Engineer
 location: NYC
 status: building
+stars_given: 213  # curating great repos since before GPT-3
 organizations:
   - OncRef
   - Snorkel AI
@@ -93,15 +94,15 @@ organizations:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Krut-in&show_icons=true&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Krut-in&show_icons=true&bg_color=00000000&title_color=006400&text_color=24292F&icon_color=006400&hide_border=true">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Krut-in&show_icons=true&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&hide_border=true" width="48%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Krut-in&show_icons=true&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Krut-in&show_icons=true&bg_color=00000000&title_color=006400&text_color=24292F&icon_color=006400&hide_border=true">
+  <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Krut-in&show_icons=true&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&hide_border=true" width="48%">
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Krut-in&layout=compact&hide=jupyter%20notebook%2Chtml%2Ccss&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Krut-in&layout=compact&hide=jupyter%20notebook%2Chtml%2Ccss&bg_color=00000000&title_color=006400&text_color=24292F&hide_border=true">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krut-in&layout=compact&hide=jupyter%20notebook,html,css&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&hide_border=true" width="40%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Krut-in&layout=compact&hide=jupyter%20notebook%2Chtml%2Ccss&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Krut-in&layout=compact&hide=jupyter%20notebook%2Chtml%2Ccss&bg_color=00000000&title_color=006400&text_color=24292F&hide_border=true">
+  <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Krut-in&layout=compact&hide=jupyter%20notebook,html,css&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&hide_border=true" width="40%">
 </picture>
 
 </div>
