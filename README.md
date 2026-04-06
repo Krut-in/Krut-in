@@ -48,29 +48,29 @@ organizations:
   <tr>
     <td>
       <b><a href="https://github.com/Krut-in/ProjectTrace">ProjectTrace</a></b><br>
-      <sub>Multi-agent system that reconstructs project timelines from email and calendar data. 6 specialized agents, burst detection, influence mapping.</sub>
+      <sub>Multi-agent timeline reconstruction from emails and calendars</sub>
     </td>
     <td>
       <b><a href="https://github.com/Krut-in/clay">clay</a></b><br>
-      <sub>Claude-powered response-sculpting interface. Pre-response blueprint negotiation and per-card actions. AI Tinkerers NYC 2026.</sub>
+      <sub>Claude-powered response sculpting · AI Tinkerers NYC 2026</sub>
     </td>
     <td>
       <b><a href="https://github.com/Krut-in/splitLens">splitLens</a></b><br>
-      <sub>Receipt scanner with Gemini Vision OCR that splits bills to the cent. Variance validation, PDF/CSV export, multi-page handling.</sub>
+      <sub>OCR receipt scanner that splits bills to the cent</sub>
     </td>
   </tr>
   <tr>
     <td>
       <b><a href="https://github.com/Krut-in/DriftSignal">DriftSignal</a></b><br>
-      <sub>AI-powered revenue intelligence platform. Tracks customer patterns, identifies churn risk, generates natural-language drift analysis.</sub>
+      <sub>AI revenue intelligence with natural-language drift analysis</sub>
     </td>
     <td>
       <b><a href="https://github.com/Krut-in/gitDash">gitDash</a></b><br>
-      <sub>GitHub contribution dashboard with 6 analysis modes. Real-time SSE streaming, interactive heatmaps, and AI manager reports.</sub>
+      <sub>GitHub analytics dashboard with AI manager reports</sub>
     </td>
     <td>
       <b><a href="https://github.com/Krut-in/Luna">Luna</a></b><br>
-      <sub>Venue discovery platform with intelligent 0-10 scoring. Real-time social feeds, friend signals, and automated booking coordination.</sub>
+      <sub>Venue discovery with intelligent scoring and social feeds</sub>
     </td>
   </tr>
 </table>
