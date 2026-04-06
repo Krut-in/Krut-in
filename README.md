@@ -27,8 +27,8 @@ organizations:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,swift,react,nextjs,fastapi,supabase,docker,aws,gcp&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,typescript,swift,react,nextjs,fastapi,supabase,docker,aws,gcp&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Ctypescript%2Cswift%2Creact%2Cnextjs%2Cfastapi%2Csupabase%2Cdocker%2Caws%2Cgcp&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Ctypescript%2Cswift%2Creact%2Cnextjs%2Cfastapi%2Csupabase%2Cdocker%2Caws%2Cgcp&theme=light">
   <img alt="Tech Stack" src="https://skillicons.dev/icons?i=python,typescript,swift,react,nextjs,fastapi,supabase,docker,aws,gcp&theme=dark">
 </picture>
 
@@ -99,8 +99,8 @@ organizations:
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Krut-in&layout=compact&hide=jupyter%20notebook,html,css&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Krut-in&layout=compact&hide=jupyter%20notebook,html,css&bg_color=00000000&title_color=006400&text_color=24292F&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Krut-in&layout=compact&hide=jupyter%20notebook%2Chtml%2Ccss&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Krut-in&layout=compact&hide=jupyter%20notebook%2Chtml%2Ccss&bg_color=00000000&title_color=006400&text_color=24292F&hide_border=true">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krut-in&layout=compact&hide=jupyter%20notebook,html,css&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&hide_border=true" width="40%">
 </picture>
 
