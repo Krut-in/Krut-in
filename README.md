@@ -82,7 +82,11 @@ organizations:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-krutin31-181717?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/krutin31)
+&nbsp;&nbsp;
+[![Substack](https://img.shields.io/badge/Substack-krutin31-181717?style=flat-square&logo=substack&logoColor=FF6719)](https://substack.com/@krutin31)
+&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-krutin31-181717?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:krutin31@gmail.com)
+&nbsp;&nbsp;
 ![Views](https://komarev.com/ghpvc/?username=Krut-in&color=181717&style=flat-square&label=views)
 
 </div>
