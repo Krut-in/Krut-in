@@ -1,5 +1,5 @@
 ```yaml
-# AGENT CARD
+# AGENT CARD 
 system: Krutin Rathod
 role: AI Full Stack Engineer
 location: NYC
